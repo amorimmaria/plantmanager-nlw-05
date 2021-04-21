@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/icon.png" width="150" />
   <h1>PlantManager</h1>
-  <p>🌱 É um APP que te ajuda a gerenciar os horários de regar suas plantas de forma correta, simples e fácil de utilizar no dia-a-dia. 🌱</p>
+  <p> É um APP que te ajuda a gerenciar os horários de regar suas plantas de forma correta, simples e fácil de utilizar no dia-a-dia. </p>
 </div>
 <br>
 
