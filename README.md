@@ -1,7 +1,7 @@
 # PlantManager
 
 <p align="center">
-  <img width="200" height="200" src="assets/icon.png"  alt="PlantManager">
+  <img width="200" height="200" src="assets/splash.png"  alt="PlantManager">
 </p>
 
 
