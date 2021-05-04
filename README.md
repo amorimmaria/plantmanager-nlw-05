@@ -7,7 +7,7 @@
 </div>
 <br>
 
-# 🧪 Technologies
+# 💻 Technologies
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
