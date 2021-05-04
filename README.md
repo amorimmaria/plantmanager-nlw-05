@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/icon.png" width="150" />
   <h1>PlantManager</h1>
-  <p> O PlantManager é um aplicativo que ajuda as pessoas gerenciar os horários de regar suas plantas de forma simples e fácil de utilizar. </p>
+  <p> O PlantManager é um aplicativo que ajuda as pessoas gerenciar os horários de regar suas plantas de forma simples e fácil. </p>
 </div>
 <br>
 
